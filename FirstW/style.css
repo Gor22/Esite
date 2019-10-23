@@ -1,0 +1,23 @@
+﻿.wrapper{
+	max-width: 1900px;
+	margin: 0 auto;
+	height: 100vh;
+	background-color: #F1F3F2;
+	color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    
+    background-color: red;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.8s;
+}
+.button:hover{
+    
+    background-color: #000;
+    
+    
+}
